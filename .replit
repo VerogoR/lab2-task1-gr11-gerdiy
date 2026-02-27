@@ -1,5 +1,5 @@
 language = "c"
-run = "gcc -o main /home/runner/project2/src/main.c"
+run = "gcc -o main /home/runner/lab2-task1-gr11-gerdiy/src/main.c"
 
 [nix]
 packages = ["tree", "vimHugeX"]
